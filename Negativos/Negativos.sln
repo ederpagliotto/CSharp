@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negativos", "Negativos\Negativos.csproj", "{B8AB8CEA-39B1-4FCA-9BE0-21D6CCF0B4C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8AB8CEA-39B1-4FCA-9BE0-21D6CCF0B4C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8AB8CEA-39B1-4FCA-9BE0-21D6CCF0B4C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8AB8CEA-39B1-4FCA-9BE0-21D6CCF0B4C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8AB8CEA-39B1-4FCA-9BE0-21D6CCF0B4C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A33C22D-31D3-42CA-A42D-185DC13BB365}
+	EndGlobalSection
+EndGlobal
